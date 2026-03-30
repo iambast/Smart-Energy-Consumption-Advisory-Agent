@@ -128,10 +128,10 @@ Maps clusters to human-readable behavioural labels, implements a rule-based reco
 
 | Rubric Item | Coverage |
 |-------------|----------|
-| Preprocessing (5 marks) | NB1: cleaning, imputation, normalisation, outlier removal |
-| Pattern mining (5 marks) | NB2: feature engineering; NB3: K-Means, DBSCAN |
-| Agent logic (10 marks) | NB3: anomaly detection; NB5: recommendation engine |
-| Reporting (10 marks) | NB4: visualisations; NB5: interpretation + ethics |
+| Preprocessing  | NB1: cleaning, imputation, normalisation, outlier removal |
+| Pattern mining  | NB2: feature engineering; NB3: K-Means, DBSCAN |
+| Agent logic  | NB3: anomaly detection; NB5: recommendation engine |
+| Reporting  | NB4: visualisations; NB5: interpretation + ethics |
 
 ---
 
